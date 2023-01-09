@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletInstrumentationFailure", "CoverletInstrumentationFailure\CoverletInstrumentationFailure.csproj", "{5950EFC5-3E2D-42E3-A173-313299DDB186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletInstrumentationFailure.UnitTests", "CoverletInstrumentationFailure.UnitTests\CoverletInstrumentationFailure.UnitTests.csproj", "{5333BF6E-BAC1-4962-BFF1-03F0CAE373AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5950EFC5-3E2D-42E3-A173-313299DDB186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5950EFC5-3E2D-42E3-A173-313299DDB186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5950EFC5-3E2D-42E3-A173-313299DDB186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5950EFC5-3E2D-42E3-A173-313299DDB186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5333BF6E-BAC1-4962-BFF1-03F0CAE373AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5333BF6E-BAC1-4962-BFF1-03F0CAE373AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5333BF6E-BAC1-4962-BFF1-03F0CAE373AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5333BF6E-BAC1-4962-BFF1-03F0CAE373AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9E42C5-9B05-4011-A076-9C1A7E4F76D6}
+	EndGlobalSection
+EndGlobal
